@@ -1,3 +1,0 @@
-print("helloo, work!")
-print("Tên tôi là Long")
-print("hutech University")
